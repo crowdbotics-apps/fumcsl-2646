@@ -1,0 +1,3 @@
+rootProject.name = 'fumcsl_2646'
+
+include ':app'
